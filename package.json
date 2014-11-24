@@ -1,0 +1,27 @@
+{
+  "name": "CanvasSlideshow",
+  "version": "0.0.1",
+  "description": "Slideshow on canvas",
+  "author": {
+    "name": "Oleksii Pronyakin",
+    "email": "ofadress@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bludrate/canvas-slideshow"
+  },
+  "dependencies": {
+    "express": "~3.4.4"
+  },
+  "devDependencies": {
+      "grunt": ">=0.4.2",
+      "grunt-contrib-stylus": "~0.12.0",
+      "grunt-contrib-cssmin" : "~0.10.0",
+      "grunt-express": "~1.0",
+      "grunt-contrib-watch" : "~0.5.3",
+      "grunt-contrib-uglify": "~0.6.0"
+  },
+  "bundleDependencies": [],
+
+  "private": false
+}
